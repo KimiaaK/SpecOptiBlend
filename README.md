@@ -56,6 +56,7 @@ To reconstruct the reflectance curve of the target sample by finding the optimiz
    - Utilized online color pickers to initiate reconstruction with RGB values.
 
 
+
 1. Reconstruction of the Western Purple  using three optimization algorithms.
     - the reconstructed color using the plastics and Nelder-Mead method.  
     - the original purple used to reproduce.
@@ -64,6 +65,10 @@ To reconstruct the reflectance curve of the target sample by finding the optimiz
 
 
 
+2. Reconstruction of the Navy Blue using three optimization algorithms.
+
+
+<img src='images/blue8.png' width='400'>
 
 
 
