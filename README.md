@@ -27,9 +27,7 @@ Additive Mixing:
    - It models how light interacts with an opaque substance.
    - It is used to predict how light is absorbed and scattered.
    - Absorption (K), and Scattering (s)
-
-
-<img src="images/kubelka-munk.png" alt="kubelka-munk formula" width='200'>
+   - <img src="images/kubelka-munk.png" alt="kubelka-munk formula" width='200'>
 
 
 
