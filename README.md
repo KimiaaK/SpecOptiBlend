@@ -30,4 +30,28 @@ Additive Mixing:
    - <img src="images/kubelka-munk.png" alt="kubelka-munk formula" width='200'>
 
 
+## Objectives
+
+To reconstruct the reflectance curve of the target sample by finding the optimized proportion of each color in the mix to reach the lowest color difference and RMS.
+
+- Reflectance ~> XYZ values ~> L*, a*,b*
+- Objective Function (Finds proportions to minimize ∆𝐸 𝑎𝑛𝑑 𝑅𝑀𝑆 𝑏𝑎𝑠𝑒𝑑 𝑜𝑛 𝑘𝑢𝑏𝑒𝑙𝑘𝑎−𝑀𝑢𝑛𝑘 𝑣𝑎𝑙𝑢𝑒𝑠  𝑎𝑠 𝑖𝑛𝑖𝑡𝑖𝑎𝑙 𝑔𝑢𝑒𝑠𝑠 simultaneously)
+- Add weights to crucial parts of the spectrum. (400-450 nm) and (620-700nm).
+- Optimizations to compare:-
+   - L-BFGS-B
+   - Nelder-Mead
+   - SLSQP
+
+
+
+
+
+
+
+
+
+
+
+
+
 
