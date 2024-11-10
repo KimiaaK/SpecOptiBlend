@@ -37,10 +37,26 @@ To reconstruct the reflectance curve of the target sample by finding the optimiz
 - Reflectance ~> XYZ values ~> L*, a*,b*
 - Objective Function (Finds proportions to minimize ∆𝐸 𝑎𝑛𝑑 𝑅𝑀𝑆 𝑏𝑎𝑠𝑒𝑑 𝑜𝑛 𝑘𝑢𝑏𝑒𝑙𝑘𝑎−𝑀𝑢𝑛𝑘 𝑣𝑎𝑙𝑢𝑒𝑠  𝑎𝑠 𝑖𝑛𝑖𝑡𝑖𝑎𝑙 𝑔𝑢𝑒𝑠𝑠 simultaneously)
 - Add weights to crucial parts of the spectrum. (400-450 nm) and (620-700nm).
-- Optimizations to compare:-
+- Optimizations to compare:
    - L-BFGS-B
    - Nelder-Mead
    - SLSQP
+- Reconstruct using the optimized proportions.
+
+
+## Results
+
+- Experiment Verification:
+  - Reconstructed navy blue and western purple to confirm experiment results.
+  - Reconstructed Lego Pink as an industrial Example.
+- Impact of Color Variety:
+  - Tested reconstruction accuracy using different color sets:
+      - Reconstructing both target colors with only four colors: cyan, magenta, black, and green.
+- Software Testing:
+   - Utilized online color pickers to initiate reconstruction with RGB values.
+
+
+
 
 
 
