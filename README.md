@@ -65,11 +65,27 @@ To reconstruct the reflectance curve of the target sample by finding the optimiz
 
 
 
-2. Reconstruction of the Navy Blue using three optimization algorithms.
-
+2. Reconstruction of the Navy Blue using three optimization algorithms (8 initial colors).
+    - the reconstructed color using the plastics and Nelder-Mead method.  
+    - the original purple used to reproduce.
 
 <img src='images/blue8.png' width='400'>
 
+
+3. Reconstruction of the Lego Pink using the optimized algorithm (8 initial colors). (Nelder-Mead)
+
+
+<img src='images/lego.png' width='400'>
+
+
+
+
+##Conclusion
+1. Nelder-Mead Optimization provides the closest results to actual colors compared to other algorithms.
+2. Limitations of Online RGB Values:
+  -  Online RGB lacks spectral data, limiting its use in precise color mixing returning a DeltaE of 17 for Western Purple.
+  -  Essential for initial reconstructions; comparison samples may not be directly available.
+3. A greater number of colors improves accuracy due to enhanced data availability at each wavelength.
 
 
 
