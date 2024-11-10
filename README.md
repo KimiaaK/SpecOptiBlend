@@ -11,6 +11,10 @@ Here, it was used to reconstruct Western University's Purple color but, it can b
    - Light interacts with substances (dyes/pigments).
    - Certain wavelengths are absorbed, and others are reflected.
    - Results in perceived colors.
+  
+Subtractive Mixing:
+
+[!image](images/subtractive-mixing.png)
 
 
 
