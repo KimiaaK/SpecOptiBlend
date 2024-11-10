@@ -17,5 +17,19 @@ Subtractive Mixing:
 <img src="images/subtractive-mixing.png" alt='subtractive' width='200'>
 
 
+Additive Mixing:
+
+
+<img src="images/additive-mixing.png" alt='subtractive' width='200'>
+
+
+2. Kubelka-Munk Theory
+   - It models how light interacts with an opaque substance.
+   - It is used to predict how light is absorbed and scattered.
+   - Absorption (K), and Scattering (s)
+
+
+
+
 
 
