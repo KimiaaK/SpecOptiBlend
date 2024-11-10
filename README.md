@@ -29,7 +29,7 @@ Additive Mixing:
    - Absorption (K), and Scattering (s)
 
 
-
+<img src="images/kubelka-munk.png" alt="kubelka-munk formula">
 
 
 
