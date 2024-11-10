@@ -57,8 +57,8 @@ To reconstruct the reflectance curve of the target sample by finding the optimiz
 
 
 1. Reconstruction of the Western Purple  using three optimization algorithms.
- a) the reconstructed color using the plastics and Nelder-Mead method.  
- b) the original purple used to reproduce.
+    a) the reconstructed color using the plastics and Nelder-Mead method.  
+    b) the original purple used to reproduce.
 
 <img src='images/western8.png' width='400'>
 
