@@ -14,7 +14,7 @@ Here, it was used to reconstruct Western University's Purple color but, it can b
   
 Subtractive Mixing:
 
-<img src="images/subtractive-mixing.png" alt='subtractive'>
+<img src="images/subtractive-mixing.png" alt='subtractive' width='200'>
 
 
 
